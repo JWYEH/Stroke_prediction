@@ -1,6 +1,7 @@
 # Stroke_prediction
 Anonymized dataset contains a record of 43401 patients and each of them is
 described by a following set of variables:
+
 ID – Unique Identification Number
 Gender – categorical variable (Male, Female, Other)
 Age_In_Days – indicates patient’s age in days
